@@ -13,7 +13,9 @@ public class sahil15 {
             c = c * 10 + b;
         }
         if (c == e) {
-            System.out.println("No. is pallidrome");
+            System.out.println("No. is pallindrome");
+        } else {
+            System.out.println("No. is not pallindrome");
         }
     }
 }
