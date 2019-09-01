@@ -8,9 +8,9 @@ public class sahil7 {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         ;
-        System.out.println(a + "+" + b + "=" + a + b);
+        System.out.println(a + "+" + b + "=" + (a + b));
         System.out.println(a + "*" + b + "=" + a * b);
-        System.out.println(a + "-" + b + "=" + (a - b);
+        System.out.println(a + "-" + b + "=" + (a - b));
         System.out.println(a + "/" + b + "=" + a / b);
         System.out.println(a + "%" + b + "=" + a % b);
 
