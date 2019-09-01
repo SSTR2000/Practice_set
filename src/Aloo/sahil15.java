@@ -10,7 +10,7 @@ public class sahil15 {
         for (; a > 0; ) {
             b = a % 10;
             a = a / 10;
-            c = c * 10 + b
+            c = c * 10 + b;
         }
         if (c == e) {
             System.out.println("No. is pallidrome");
