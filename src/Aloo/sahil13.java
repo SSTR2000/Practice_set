@@ -15,7 +15,7 @@ public class sahil13 {
                 break;
             }
         }
-        if (b == 0) {
+        if (b == 0 & a != 0 & a != 2) {
             System.out.println(a + " is prime");
         }
     }
