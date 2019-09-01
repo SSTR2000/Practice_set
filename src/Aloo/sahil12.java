@@ -10,7 +10,9 @@ public class sahil12 {
         System.out.println("Please enter the 2nd no. :-");
         int b = scanner.nextInt();
         for (; a <= b; a++) {
-            System.out.println(a % 2);
+            if (a % 2 == 0) {
+                System.out.println(a);
+            }
         }
 
     }
