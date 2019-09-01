@@ -14,8 +14,6 @@ public class sahil13 {
                 break;
             }
         }
-        if (a % i != 0) {
             System.out.println(a + " is prime");
-        }
     }
 }
