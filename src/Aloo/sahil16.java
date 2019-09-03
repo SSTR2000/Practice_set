@@ -9,14 +9,13 @@ public class sahil16 {
         char a = scanner.nextLine().trim().charAt(0);
         System.out.println("Please enter another character");
         char b = scanner.nextLine().trim().charAt(0);
-        if ('a' > 'b') {
-            System.out.print(a + ",");
-            System.out.println(b);
-
-        } else {
+        if (a > b) {
             System.out.print(b + ",");
             System.out.println(a);
 
+        } else {
+            System.out.print(a + ",");
+            System.out.println(b);
         }
 
     }
